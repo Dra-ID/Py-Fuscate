@@ -1,0 +1,4 @@
+colorama
+pyfiglet
+tqdm
+requests
