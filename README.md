@@ -1,5 +1,6 @@
 # Py-Fuscate
 Sebuah encrypt Script fuscate Versi 1.6
+<p align=left> <img src=https://komarev.com/ghpvc/?username=yo alt=Demi/> </p>
 
 ## Install
 
