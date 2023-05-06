@@ -19,5 +19,10 @@ python3 encode.py
 ```sh
 usage: py_fuscate.py [-h] -i INPUT -o OUTPUT -c COMPLEXITY
 ```
+
+# Contoh
+Download Contoh di Bawah
+https://khaddavi.net/92aj
+
 ## Author
 👤 **Vindra ID**
