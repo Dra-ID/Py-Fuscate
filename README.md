@@ -16,13 +16,13 @@ python3 -m pip install -r requirements.txt
 python3 encode.py
 ```
 
-## Usage
+## Usage/example 
 ```sh
-usage: py_fuscate.py [-h] -i INPUT -o OUTPUT -c COMPLEXITY
+python encode.py -i /sdcard/folder/file.py -o /sdcard/out/file.py -c amount
 ```
 
-# Contoh
-Download Contoh di Bawah
+# Cara Encrypt 👇
+# how to encrypt 👇
 https://khaddavi.net/92aj
 
 ## Author
