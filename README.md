@@ -13,7 +13,7 @@ sudo apt install git python3
 git clone https://github.com/Dra-ID/Py-Fuscate.git
 cd Py-Fuscate
 python3 -m pip install -r requirements.txt
-python3 encode.py
+python encode.py -i /sdcard/folder/file.py -o /sdcard/out/file.py -c amount
 ```
 
 ## Usage/example 
