@@ -22,7 +22,7 @@ python encode.py -i /sdcard/folder/file.py -o /sdcard/out/file.py -c amount
 ```
 
 # Cara Encrypt 👇
-# how to encrypt 👇
+# how to encrypt 
 https://khaddavi.net/92aj
 
 ## Author
