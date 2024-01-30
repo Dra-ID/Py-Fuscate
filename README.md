@@ -26,4 +26,4 @@ python encode.py -i /sdcard/folder/file.py -o /sdcard/out/file.py -c amount
 https://khaddavi.net/92aj
 
 ## Author
-👤 **Vindra ID**
+👤 **Vindra**
